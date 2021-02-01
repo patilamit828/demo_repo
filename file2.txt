@@ -1,3 +1,8 @@
 file2 created by Amit
 Step2>>Remote file update
-Added changes in main branch for >>Conflicts
+
+changes from local test
+
+
+file2 edit from local 2 repo
+
