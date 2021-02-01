@@ -5,9 +5,16 @@ changes from local test
 
 
 file2 edit from local 2 repo
+
+file2 edit from local 3 repo
+file2 edit from local 4 repo
+file2 edit from local 5 repo
+file2 edit from remote 5 repo
+
 changes done by monika for conflict. - remote branch
 changes done by monika for conflict2. - remote branch
 changes done by monika for conflict3. - remote branch
 changes done by monika for conflict4. - remote branch
+
 
 
