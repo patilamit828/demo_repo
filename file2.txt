@@ -1,2 +1,3 @@
 file2 created by Amit
 Step2>>Remote file update
+Added changes in main branch for >>Conflicts
