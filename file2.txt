@@ -5,3 +5,4 @@ Step2>>Remote file update
 file2 edit from local 2 repo
 file2 edit from local 3 repo
 file2 edit from local 4 repo
+file2 edit from remote 5 repo
