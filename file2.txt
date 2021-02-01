@@ -1,2 +1,5 @@
 file2 created by Amit
 Step2>>Remote file update
+
+
+file2 edit from local 2 repo
